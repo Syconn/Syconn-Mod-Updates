@@ -6,7 +6,7 @@
     "1.2": "Fluid Pipes & Rendering Improvements",
     "1.2.1": "Config Extension + Pipe Recipes and Drop Changes",
     "1.2.2": "multiloader port",
-    "1.2.3": "Fix of Canister Fillers"
+    "1.2.3": "Fix Canister Fillers / made it compatable with other fluid tanks"
   },
   "promos": {
     "1.21-latest": "1.2.3",
