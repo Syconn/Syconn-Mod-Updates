@@ -1,10 +1,15 @@
 {
   "homepage": "https://www.curseforge.com/minecraft/mc-mods/syconns-super-hero-mod",
+  "1.21.4": {
+    "1.0.1": "1.21.4 Port"
+  },
   "1.21": {
     "1.0.0": "1.21 Port",
     "1.0.1": "Update Tracker, Flight, Mjolnir Lightning"
   },
   "promos": {
+    "1.21.4-latest": "1.0.1",
+    "1.21.4-recommended": "1.0.1",
     "1.21-latest": "1.0.1",
     "1.21-recommended": "1.0.1"
   }
