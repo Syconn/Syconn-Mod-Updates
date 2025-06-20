@@ -1,27 +1,9 @@
 {
   "homepage": "https://modrinth.com/mod/syconns-star-wars-mod",
-  "1.20": {
-    "2.0.1": "Lightsabers",
-    "2.0.2": "Fix Forge Crashing, Improved in Game Mod Info, Forge Update Tracking"
-  },
-  "1.20.1": {
-    "2.0.1": "Lightsabers",
-    "2.0.2": "Fix Forge Crashing, Improved in Game Mod Info, Forge Update Tracking"
-  },
-  "1.21": {
-    "2.0.1": "1.21 Port"
-  },
-  "1.21.1": {
-    "2.0.1": "1.21 Port"
-  },
   "promos": {
     "1.20-latest": "2.0.2",
-    "1.20-recommended": "2.0.2",
     "1.20.1-latest": "2.0.2",
-    "1.20.1-recommended": "2.0.2",
     "1.21-latest": "2.0.1",
-    "1.21-recommended": "2.0.1"
     "1.21.1-latest": "2.0.1",
-    "1.21.1-recommended": "2.0.1"
   }
 }
